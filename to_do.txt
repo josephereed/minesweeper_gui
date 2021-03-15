@@ -1,0 +1,5 @@
+reset option
+win condition defined
+ability to flag a bomb
+have algorithm account for edges 
+color change for different int counts
